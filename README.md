@@ -18,7 +18,12 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a passion for building 
 ## 💞️ Open to Collaborate On
 - Open-source projects  
 - Web development initiatives  
-- Health tech and machine learning applications  
+- Health tech and machine learning applications
+- 
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME
+&theme=dark
+&hide_border=true
+&date_format=j%20M%5B%20Y%5D)
 
 ## 📫 Get in Touch
 - 📧 Email: [shashankshetty0013@gmail.com](mailto:shashankshetty0013@gmail.com)  

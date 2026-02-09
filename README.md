@@ -21,15 +21,17 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a passion for building 
 - Health tech and machine learning applications
 <h3>🔥 GitHub Streak</h3>
 <img
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=shashank_013)
- alt="GitHub Streak"
+  src="https://leetcode-stats.vercel.app/api?username=shashank_013"
+  alt="LeetCode Stats"
   draggable="false"
-  />
+/>
+
 <img
   src="https://streak-stats.demolab.com?user=shashankkshettyy&theme=tokyonight&hide_border=true"
   alt="GitHub Streak"
   draggable="false"
 />
+
 
 ## 📫 Get in Touch
 - 📧 Email: [shashankshetty0013@gmail.com](mailto:shashankshetty0013@gmail.com)  

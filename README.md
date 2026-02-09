@@ -19,13 +19,13 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a passion for building 
 - Open-source projects  
 - Web development initiatives  
 - Health tech and machine learning applications
-<h3>🔥 GitHub Streak</h3>
+<h3>🔥 Leetcode Streak</h3>
 <img
   src="https://leetcode-stats.vercel.app/api?username=shashank_013"
   alt="LeetCode Stats"
   draggable="false"
 />
-
+<h3>🔥 GitHub Streak</h3>
 <img
   src="https://streak-stats.demolab.com?user=shashankkshettyy&theme=tokyonight&hide_border=true"
   alt="GitHub Streak"

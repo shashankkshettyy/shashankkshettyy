@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a passion for building 
 ## 📫 Get in Touch
 - 📧 Email: [shashankshetty0013@gmail.com](mailto:shashankshetty0013@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/shashanka-shetty-146686252](https://www.linkedin.com/in/shashanka-shetty-146686252/)  
-- 🌐 Portfolio: [shashankkshetty.netlify.app](https://shashankshettylogin.netlify.app)  
+- 🌐 Portfolio: [shashankshettylogin.netlify.app](https://shashankshettylogin.netlify.app)  
 
 ## 😄 Pronouns
 He/Him
